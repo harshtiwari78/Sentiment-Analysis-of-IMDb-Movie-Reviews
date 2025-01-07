@@ -68,18 +68,3 @@ To run this project, the following dependencies are required:
 - GloVe word embeddings
 
 Please make sure to install the necessary libraries and download the GloVe word embeddings before running the project.
-
-## License
-This project is licensed under the [MIT License](https://github.com/Taha533/Sentiment-Analysis-of-IMDB-Movie-Reviews/blob/main/LICENSE).
-
-## Contributions
-Contributions to this project are welcome. If you would like.
-
-## References
-
-If you find this project useful, consider referencing the following resources:
-
-- [Stanford NLP Group: GloVe](https://nlp.stanford.edu/projects/glove/)
-
-Note: This project is intended for educational purposes and to showcase the implementation of sentiment analysis using different models.
-
